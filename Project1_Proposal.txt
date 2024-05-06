@@ -1,0 +1,14 @@
+General Idea - Create a To Do List
+
+Project Title - Create My To-Do List
+
+Project Description - Create a chore To-Do List.
+                    - Requires user to Register
+                    - Requires user to Log In
+                    - Allow User to View List
+                    - Allow User to Add To List
+                    - Allow User to Exit
+                    
+
+
+
