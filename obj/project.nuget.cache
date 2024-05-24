@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vYAcXd/xY/QLj/DnseaHXkxOA46DnO4UylG+zUUkW/zTiHH0J70EBzcJFN3n8KRojRKA7MkTPgkKNgLRyo1bcA==",
+  "dgSpecHash": "6Qxj+7q4PlqfCnvRr9AzeoL0N7q24pWwSnqCJ+xfVWVUiokybljW/eoCGB1mlU56t8yTM6WaeupSCCpgCGHJkQ==",
   "success": true,
-  "projectFilePath": "C:\\Revature\\JenAProject1\\JenAProject1\\JenAProject1.csproj",
+  "projectFilePath": "C:\\Revature\\JenAProject1\\JenAProject1.csproj",
   "expectedPackageFiles": [
     "C:\\dev\\nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\dev\\nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Revature\\JenAProject1\\JenAProject1\\JenAProject1.csproj": {}
+    "C:\\Revature\\JenAProject1\\JenAProject1.csproj": {}
   },
   "projects": {
-    "C:\\Revature\\JenAProject1\\JenAProject1\\JenAProject1.csproj": {
+    "C:\\Revature\\JenAProject1\\JenAProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Revature\\JenAProject1\\JenAProject1\\JenAProject1.csproj",
+        "projectUniqueName": "C:\\Revature\\JenAProject1\\JenAProject1.csproj",
         "projectName": "JenAProject1",
-        "projectPath": "C:\\Revature\\JenAProject1\\JenAProject1\\JenAProject1.csproj",
+        "projectPath": "C:\\Revature\\JenAProject1\\JenAProject1.csproj",
         "packagesPath": "C:\\dev\\nuget\\packages",
-        "outputPath": "C:\\Revature\\JenAProject1\\JenAProject1\\obj\\",
+        "outputPath": "C:\\Revature\\JenAProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\U1C073\\AppData\\Roaming\\NuGet\\NuGet.Config"
