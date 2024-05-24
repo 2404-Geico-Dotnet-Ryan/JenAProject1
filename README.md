@@ -16,8 +16,13 @@ OVERVIEW:
             - Allow User to Add To List
             - Allow User to Exit
             - Error Handling for Register, Login, and Menus
+
+HOW TO RUN APPLICATION:
+    - Create a folder and clone the repository
+    - Update the path to your specific database configuration file
+    - Run the application: dotnet run
         
-HOW APPLICATION WORKS:
+DEMO HOW APPLICATION WORKS:
     - Register username that already exists
     - Attempt Register with username too long
     - Attempt Login with unregistered user
